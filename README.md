@@ -1,6 +1,7 @@
 Lab_3
 =====
 Nick Zimmerman
+Partner: Dominic Rayas
 This file is edited for step 11
 
 CSCI 3308 Lab 3
